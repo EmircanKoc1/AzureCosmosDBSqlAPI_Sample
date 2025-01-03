@@ -1,0 +1,6 @@
+@AzureCosmosDBSqlAPI_Sample_HostAddress = http://localhost:5130
+
+GET {{AzureCosmosDBSqlAPI_Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
